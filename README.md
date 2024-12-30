@@ -10,4 +10,4 @@
 
 ## Dataset Preparation
 
-* dataset_DCKO_tactileServo_DLO: Click [Google](https://www.google.com)
+* dataset_DCKO_tactileServo_DLO: Click [here](https://drive.google.com/file/d/18ZH7K1uB_Ob6gg9SgTeLdVKl9XT1iL7-/view?usp=sharing)
