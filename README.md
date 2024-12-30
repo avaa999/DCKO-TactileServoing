@@ -6,6 +6,11 @@
 
 ## Environment Setup
 ### Setup anaconda environment
+```
+$ conda create --name DCKO python=3.7.6 -y
+$ conda activate DCKO
+$ pip install -r /path/to/your/requirements.txt
+```
 
 
 ## Experiment
