@@ -7,6 +7,7 @@
 ## Environment Setup
 
 ## Experiment
+The vedio of extensive robotic experiments could be found at [here](https://youtu.be/pHUMUcxe_zc)
 
 ## Dataset Preparation
 
