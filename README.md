@@ -1,6 +1,7 @@
 # Dynamic Contrastive Koopman Operator for Tactile Servo of Deformable Linear Objects
 
 ## The paper is currently under review.
+
 ![The proposed framework](pictures/Overview.png)
 
 ## Requirements
@@ -19,6 +20,7 @@ $ pip install -r /path/to/your/requirements.txt
 
 ## Experiment
 The vedio of extensive robotic experiments could be found at [here](https://youtu.be/pHUMUcxe_zc)
+
 ![The proposed framework](pictures/hose_following.png)
 ![The proposed framework](pictures/hose_routing.png)
 
