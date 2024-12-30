@@ -3,7 +3,6 @@
 ## The paper is currently under review.
 ![The proposed framework](pictures/Overview.png)
 
-![The proposed dynamic_sampling_strategy](https://github.com/avaa999/DCKO-TactileServoing/blob/main/pictures/Dynamic_sampling.png)
 ## Requirements
 The code has been tested under
 * Ubuntu 20.04 + NVIDIA GeForce RTX 1080Ti (CUDA 12.2)
