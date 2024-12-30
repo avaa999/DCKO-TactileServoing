@@ -2,7 +2,7 @@
 
 ## The paper is currently under review.
 ![The proposed framework](pictures/Overview.png)
-
+![The proposed dynamic_sampling_strategy](pictures/Dynamic_samplimg.png)
 ## Requirements
 The code has been tested under
 * Ubuntu 20.04 + NVIDIA GeForce RTX 1080Ti (CUDA 12.2)
