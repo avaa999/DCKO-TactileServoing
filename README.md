@@ -1,6 +1,7 @@
 # Dynamic Contrastive Koopman Operator for Tactile Servo of Deformable Linear Objects
 
-## The paper is accepted by IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS.
+**Our paper has been accepted by _IEEE Transactions on Industrial Electronics_!** 
+If you're interested in our work, feel free to follow for updates on the early access publication.
 
 ![The proposed framework](pictures/Overview.png)
 <!--
